@@ -9,11 +9,11 @@
 
 
 ## 목차
-1. 인공지능을 위한 수학  
-2. 미적분 기초 
-3. Python 기초
-4. 데이터 사이언스를 위한 Python 활용
-5. 데이터 사이언스와 수학의 결합 
+1. [인공지능을 위한 수학](https://github.com/apostkor/Path_To_ML_Professional/blob/master/README.md#1-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%98%ED%95%99)  
+2. [미적분 기초](https://github.com/apostkor/Path_To_ML_Professional/blob/master/README.md#2-%EB%AF%B8%EC%A0%81%EB%B6%84-%EA%B8%B0%EC%B4%88) 
+3. [Python 기초](https://github.com/apostkor/Path_To_ML_Professional/blob/master/README.md#3-python-%EA%B8%B0%EC%B4%88)
+4. [데이터 사이언스를 위한 Python 활용](https://github.com/apostkor/Path_To_ML_Professional/blob/master/README.md#4-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-python-%ED%99%9C%EC%9A%A9)
+5. [데이터 사이언스와 수학의 결합](https://github.com/apostkor/Path_To_ML_Professional/blob/master/README.md#5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%EC%99%80-%EC%88%98%ED%95%99%EC%9D%98-%EA%B2%B0%ED%95%A9) 
 6. 텐서플로우  
 7. 딥러닝과 최신 알고리즘 
 
