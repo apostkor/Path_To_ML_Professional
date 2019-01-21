@@ -190,6 +190,74 @@
 해당 노트북은 꼭 참고 해 주세요.
 
 
-# 6. 텐서플로우  
+# 6. 텐서플로우, 딥러닝 및 최신 알고리즘  
 ![Alt text](https://cdn-images-1.medium.com/max/1600/0*a6XSwHsfvz_oWSSJ.jpg)
+- Scikit-learn 등 기타 머신러닝 라이브러리(모듈)들은 이미 5-1부터 5-2에서 많이 사용해보셨습니다. 
+- 이제 드디어 Tensorflow를 가용해서 학습/실습을 진행합니다.
+- 몇몇 글이 조금 오래되어서 Tensorflow와 Keras를 별도로 칭하는데, 지금은 통합되어 Tenorflow의 Keras Implementation으로 tf.keras를 사용합니다.
+<pre><code>import tensorflow as tf
+from tensorflow.keras import layers
+</code></pre>
+- 이 부분만 참고하여 진행해 주세요. :)
 
+
+> (1월 21일)
+#### 6-1 학습방법
+> [Intro to Tensorflow by Siraj Ravel](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+
+상단 플레이리스트에서
+- "Deep Learning Frameworks Compared" 
+- "텐서플로우 5분완성"
+- "The Besy way to Prepare a Dataset"
+
+> [Intro to Deep Learning by Siraj Ravel](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
+
+상단 플레이리스트에서
+- "How to Make Data Amazing - Intro to Deep Learning #5"
+
+의 제목을 찾아서 실습하시면 되며, 
+- 유명 라이브러리(모듈) 간 비교
+- 여러가지 데이터 전처리 방법 
+- MNIST(숫자인식) Tensorflow로 접근하기 
+
+등의 개념을 
+- [실습 진행 시 필수 참고 "Intro To Tensorflow Intro by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/IntroToTensorflow_Intro.ipynb)
+- [실습 진행 시 필수 참고 "Intro To Tensorflow Step #1 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%201.ipynb)
+
+해당 노트북을 꼭 참고해 실습 진행하세요. 
+
+
+> (1월 22일)
+#### 6-2 학습방법
+> [Intro to Deep Learning by Siraj Ravel](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
+
+상단 플레이리스트에서
+- "Tensorboard Explained in 5 Min" 
+- "How to make a Tensorflow Neural Network"
+- (추가예정)
+
+의 제목을 찾아서 실습하시면 되며, 
+- Tensorboard (텐서보드) 개념과 사용방법
+- Tensorflow로 Neural Network 구현
+- (추가예정)
+
+등의 개념을 
+- (추가예정)
+
+해당 노트북을 꼭 참고해 실습 진행하세요. 
+
+
+> (1월 23일)
+#### 6-3 학습방법
+> [Intro to Deep Learning by Siraj Ravel](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
+
+상단 플레이리스트에서
+- "How to Do Sentiment Analysis - Intro to Deep Learning #3" 
+- "How to Predict Stock Prices Easily - Intro to Deep Learning #7"
+- "How to Use Tensorflow for Time Series (Live)"
+
+의 제목을 찾아서 실습하시면 되며
+
+- (추가예정)
+
+해당 노트북을 꼭 참고해 실습 진행하세요. 
