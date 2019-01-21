@@ -26,7 +26,7 @@
 - 해당 서적은 기본적인 수1/수2 수학의 개념을 설명하면서, 인공지능 분야에서는 이 개념이 어떻게 응용되는지 교육합니다. 
 
 #### 학습방법
-> 해당 서적을 구입해서 읽어보셔도 되며, 해당 서적을 요약한 요약본은 연락 주시면 보내드립니다. 
+- 해당 서적을 구입해서 읽어보셔도 되며, 해당 서적을 요약한 요약본은 연락 주시면 보내드립니다. 
 
 
 ## 2. 미적분 기초 
@@ -50,6 +50,7 @@
 - 추후에도 계속 해당 환경으로 작업할 것이기 때문에, 처음부터 익숙해지시는 것이 좋습니다. 
 - 아나콘다는 최신 버전으로 설치하셔도 무방하나, Python 버전을 내릴 필요가 있습니다 ([방법](http://thrillfighter.tistory.com/466) 저는 3.6.2로 사용합니다.)
 
+#### 학습방법
 > 먼저 두 가지 좋은 Python 강의들이 있습니다.
 1. [MOOC for Python](https://www.youtube.com/watch?v=EyAHKYqrEe8&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=1)
 2. [윤인성 for Python](https://www.youtube.com/watch?v=XPuVxEpr-vc&index=1&list=PLBXuLgInP-5nbu5s5TuNbD6-4qh3Mgoor)
@@ -66,3 +67,24 @@
 9. MOOC 63~71화 웹크롤링 기초개념
 해당 순서로 학습하시면 좋겠습니다. 
 
+
+## 4. 데이터 사이언스를 위한 Python 활용
+> (1월 10일 ~ 1월 11일)
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/4/40/Twitter_activity_of_Donald_Trump.png)
+~~트럼프 대통령의 트위터 근황~~
+- 먼저 앞서 배운 Python 문법으로, 일종의 "ML 맛보기"를 진행해봅니다. 
+- 총 두 가지 예제를 처음부터 응용까지 실습하시면 됩니다. 
+
+#### 학습방법
+1. [Twitter API를 사용한 SNS 감정도 분석 by apost](https://github.com/apostkor/TwitterKeywordAnalyzer/blob/master/TwitterKeywordAnalyzer_Main.ipynb)
+2. [SVM을 이용한 주식시장 분석 by apost](https://github.com/apostkor/StockPriceAnalyzer/blob/master/StockPriceAnalyzer_Main.ipynb)
+3. [참고영상 - Siraj Raval의 Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU&index=1)
+
+- 위의 두 가지를 실습해 보시면서 아직 디테일 자체를 이해하실 필요는 없습니다. 
+- (예를 들어, SVM이 어떻게 동작하는지, 연관성이 어떻게 계산되었는지 등.) 
+- 다만 그냥 예시가 진행되는 진행방향과, 배운 문법들이 이렇게 사용되고 있구나 등 정말 "맛보기"를 진행하시면 됩니다. 
+- 모든 예시는 참고영상에서 거론된 것이기 때문에 1~6화는 꼭 참고하시면 좋겠습니다.
+
+
+## 5. 데이터 사이언스와 수학의 결합 
+- 지금부터는 하루하루 자세히 진행하겠습니다. 
