@@ -65,6 +65,7 @@
 7. MOOC 60~61화 파일처리 개념 
 8. MOOC 62화 CSV 개념 
 9. MOOC 63~71화 웹크롤링 기초개념
+
 해당 순서로 학습하시면 좋겠습니다. 
 
 
@@ -87,4 +88,106 @@
 
 
 ## 5. 데이터 사이언스와 수학의 결합 
-- 지금부터는 하루하루 자세히 진행하겠습니다. 
+- 지금부터는 하루하루 자세히 진행하겠습니다.
+- 이제부터는 모든 개념에서 수학/논리 자체를 이해하는게 중요합니다. 
+- 어떤 논리에서 나온 것인지, 어떠한 데이터 유형에서 사용되는지, 장단점은 무엇인지. 등등
+![Alt text](https://c1.staticflickr.com/5/4169/34764532445_e3883bd446_b.jpg)
+
+
+> (1월 14일)
+#### 5-1 학습방법
+> [The Math of Intelligence by Siraj Raval의 1~4화](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+
+해당 플레이리스트에서 1~4화까지를 보시고 직접 영상에 나오는 실습을 직접 해보시면 됩니다. 
+- Labeled Data  
+- Gradient Decent 최적화 (선형회귀)
+- Second Order 최적화
+- SVM Classification 
+- Logistic Regression (로지스틱회귀)
+
+상기 개념을 이해시는 것이 목적입니다. 
+
+- [실습 진행 시 필수 참고 "The Math of Intelligence Step #1 by apost"](https://github.com/apostkor/MathofIntelligence/blob/master/The%20Math%20of%20Intelligence%20Step%20%231.ipynb)
+
+해당 노트북은 꼭 참고 해 주세요.
+
+
+> (1월 15일)
+#### 5-2 학습방법
+> [The Math of Intelligence by Siraj Raval의 5~8화](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+
+해당 플레이리스트에서 5~8화까지를 보시고 직접 영상에 나오는 실습을 직접 해보시면 됩니다. 
+- Vectors
+- Tensors 
+- K-Means Clustering
+- NN
+- Convolutional NN (CNN)
+- ReLU
+
+상기 개념을 이해시는 것이 목적입니다. 
+
+- [실습 진행 시 필수 참고 "The Math of Intelligence Step #2 by apost"](https://github.com/apostkor/MathofIntelligence/blob/master/The%20Math%20of%20Intelligence%20Step%20%232.ipynb)
+
+해당 노트북은 꼭 참고 해 주세요.
+
+
+> (1월 16일)
+#### 5-3 학습방법
+> [The Math of Intelligence by Siraj Raval의 9~11화](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+
+해당 플레이리스트에서 9~11화까지를 보시고 직접 영상에 나오는 실습을 직접 해보시면 됩니다. 
+- Dimensionality Reduction
+- Feature Scaling Formula
+- Eigenvector
+- RNN
+- Probability Theory
+- Naive Bayes
+- Condition Indep
+
+상기 개념을 이해시는 것이 목적입니다. 
+
+- [실습 진행 시 필수 참고 "The Math of Intelligence Step #3 by apost"](https://github.com/apostkor/MathofIntelligence/blob/master/The%20Math%20of%20Intelligence%20Step%20%233.ipynb)
+
+해당 노트북은 꼭 참고 해 주세요.
+
+
+> (1월 17일)
+#### 5-4 학습방법
+> [The Math of Intelligence by Siraj Raval의 12~14화](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+
+해당 플레이리스트에서 12~14화까지를 보시고 직접 영상에 나오는 실습을 직접 해보시면 됩니다. 
+- Random Forest
+- Decision Tree
+- Gini Index
+- Hyperparameter optimization
+- Bayesian Optimization
+- Gaussian Mixture Model
+
+상기 개념을 이해시는 것이 목적입니다. 
+
+- [실습 진행 시 필수 참고 "The Math of Intelligence Step #4 by apost"](https://github.com/apostkor/MathofIntelligence/blob/master/The%20Math%20of%20Intelligence%20Step%20%234.ipynb)
+
+해당 노트북은 꼭 참고 해 주세요.
+
+
+> (1월 18일)
+#### 5-5 학습방법
+> [The Math of Intelligence by Siraj Raval의 15~19화](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+
+해당 플레이리스트에서 15~19화까지를 보시고 직접 영상에 나오는 실습을 직접 해보시면 됩니다. 
+- Generative Model (GAN)
+- LDA
+- LSTM
+- DEEP Q Learning 
+- Genetic Algorithm
+- Quantum Algorithm 
+
+상기 개념을 이해시는 것이 목적입니다. 
+
+- [실습 진행 시 필수 참고 "The Math of Intelligence Step #5 by apost"](https://github.com/apostkor/MathofIntelligence/blob/master/The%20Math%20of%20Intelligence%20Step%20%235.ipynb)
+- [실습 진행 시 필수 참고 "The Math of Intelligence Step #6 by apost"](https://github.com/apostkor/MathofIntelligence/blob/master/The%20Math%20of%20Intelligence%20Step%20%236.ipynb)
+
+해당 노트북은 꼭 참고 해 주세요.
+
+
+# 6. 텐서플로우  
