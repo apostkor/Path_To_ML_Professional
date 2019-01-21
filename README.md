@@ -17,7 +17,7 @@
 6. 텐서플로우  
 7. 딥러닝과 최신 알고리즘 
 
-## 1. 인공지능을 위한 수학 
+# 1. 인공지능을 위한 수학 
 > (1월 3일)
 
 [표지사진](http://image.kyobobook.co.kr/images/book/xlarge/282/x9788965402282.jpg)
@@ -29,7 +29,7 @@
 - 해당 서적을 구입해서 읽어보셔도 되며, 해당 서적을 요약한 요약본은 연락 주시면 보내드립니다. 
 
 
-## 2. 미적분 기초 
+# 2. 미적분 기초 
 > (1월 4일)
 
 ![Alt text](https://upload.wikimedia.org/wikipedia/commons/f/f7/Infinitesimal_Calculus_6.png)
@@ -42,7 +42,7 @@
 - 개념과 더불어 문제에 대한 접근방식 자체를 배워보시는 것이 좋습니다.
 
 
-## 3. Python 기초
+# 3. Python 기초
 > (1월 7일 ~ 1월 9일)
 
 [아나콘다 + 주피터 노트북 환경설정](https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221277853081&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
@@ -69,7 +69,7 @@
 해당 순서로 학습하시면 좋겠습니다. 
 
 
-## 4. 데이터 사이언스를 위한 Python 활용
+# 4. 데이터 사이언스를 위한 Python 활용
 > (1월 10일 ~ 1월 11일)
 ![Alt text](https://upload.wikimedia.org/wikipedia/commons/4/40/Twitter_activity_of_Donald_Trump.png)
 ~~트럼프 대통령의 트위터 근황~~
@@ -87,7 +87,7 @@
 - 모든 예시는 참고영상에서 거론된 것이기 때문에 1~6화는 꼭 참고하시면 좋겠습니다.
 
 
-## 5. 데이터 사이언스와 수학의 결합 
+# 5. 데이터 사이언스와 수학의 결합 
 - 지금부터는 하루하루 자세히 진행하겠습니다.
 - 이제부터는 모든 개념에서 수학/논리 자체를 이해하는게 중요합니다. 
 - 어떤 논리에서 나온 것인지, 어떠한 데이터 유형에서 사용되는지, 장단점은 무엇인지. 등등
@@ -191,3 +191,5 @@
 
 
 # 6. 텐서플로우  
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/2000px-Tensorflow_logo.svg.png)
+
