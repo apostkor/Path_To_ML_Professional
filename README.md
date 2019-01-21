@@ -232,7 +232,7 @@ from tensorflow.keras import layers
 - Tensorboard (텐서보드) 개념과 사용방법
 - Tensorflow로 Neural Network 구현
 
-- [실습 진행 시 필수 참고 "Intro To Tensorflow Step #1 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%202.ipynb)
+- [실습 진행 시 필수 참고 "Intro To Tensorflow Step #2 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%202.ipynb)
 
 해당 노트북을 꼭 참고해 실습 진행하세요. 
 
