@@ -227,14 +227,12 @@ from tensorflow.keras import layers
 > [Intro to Deep Learning by Siraj Ravel 플레이리스트에서](https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 - "Tensorboard Explained in 5 Min" 
 - "How to make a Tensorflow Neural Network"
-- (추가예정)
 
 의 제목을 찾아서 실습하시면 되며, 하단 포인트들을
 - Tensorboard (텐서보드) 개념과 사용방법
 - Tensorflow로 Neural Network 구현
-- (추가예정)
 
-- (추가예정)
+- [실습 진행 시 필수 참고 "Intro To Tensorflow Step #1 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%202.ipynb)
 
 해당 노트북을 꼭 참고해 실습 진행하세요. 
 
