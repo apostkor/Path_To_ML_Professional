@@ -191,5 +191,5 @@
 
 
 # 6. 텐서플로우  
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/2000px-Tensorflow_logo.svg.png)
+![Alt text](https://cdn-images-1.medium.com/max/1600/0*a6XSwHsfvz_oWSSJ.jpg)
 
