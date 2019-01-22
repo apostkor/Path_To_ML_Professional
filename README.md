@@ -246,6 +246,6 @@ from tensorflow.keras import layers
 
 의 제목을 찾아서 실습하시면 되며
 
-- (추가예정)
+- [실습 진행 시 필수 참고 "Intro To Tensorflow Step #3 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%203.ipynb)
 
 해당 노트북을 꼭 참고해 실습 진행하세요. 
