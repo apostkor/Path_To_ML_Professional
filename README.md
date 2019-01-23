@@ -249,3 +249,14 @@ from tensorflow.keras import layers
 - [실습 진행 시 필수 참고 "Intro To Tensorflow Step #3 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%203.ipynb)
 
 해당 노트북을 꼭 참고해 실습 진행하세요. 
+
+> (1월 24일)
+#### 6-4 학습방법
+> [GAN 으로 이미지 스타일 변환](https://www.youtube.com/watch?v=MgdAe-T8obE)
+> [GAN 으로 포켓몬 생성?!](https://www.youtube.com/watch?v=yz6dNf7X7SA)
+
+- Gererative Adversarial Network (GAN/상성적 적대 신경망)
+
+- [실습 진행 시 필수 참고 "Intro To Tensorflow Step #4 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%204.ipynb)
+
+해당 노트북을 꼭 참고해 실습 진행하세요.
