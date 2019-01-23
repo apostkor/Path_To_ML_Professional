@@ -259,6 +259,8 @@ from tensorflow.keras import layers
 
 - Gererative Adversarial Network (GAN/상성적 적대 신경망)
 
+의 개념을 꼭 이해하시고 실습해보시면 
+
 - [실습 진행 시 필수 참고 "Intro To Tensorflow Step #4 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%204.ipynb)
 
 해당 노트북을 꼭 참고해 실습 진행하세요.
