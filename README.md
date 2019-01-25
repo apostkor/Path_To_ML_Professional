@@ -264,3 +264,17 @@ from tensorflow.keras import layers
 - [실습 진행 시 필수 참고 "Intro To Tensorflow Step #4 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%204.ipynb)
 
 해당 노트북을 꼭 참고해 실습 진행하세요.
+
+> (1월 25일)
+#### 6-5 학습방법
+> [Q leanring for trading](https://www.youtube.com/watch?v=rRssY6FrTvU)
+
+> [Reinforcement Learning for Stock Prediction](https://www.youtube.com/watch?v=05NqKJ0v7EE)
+
+- Deep Reinforcement Learning (DRL)
+
+의 개념을 꼭 이해하시고 실습해보시면 되며 
+
+- [실습 진행 시 필수 참고 "Intro To Tensorflow Step #5 by apost"](https://github.com/apostkor/IntroToTensorflow/blob/master/Intro%20To%20Tensorflow%20Step%20%23%205.ipynb)
+
+해당 노트북을 꼭 참고해 실습 진행하세요.
