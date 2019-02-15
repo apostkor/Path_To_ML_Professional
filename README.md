@@ -1,5 +1,5 @@
 # Path To ML Professional
-## by Dae Heon Yun, 2019-01-02
+## by Yoo Bin Kim, 2019-01-02
 
 수학을 (거의) 모르는 기초부터 시작하여, 지금 시점의 최신 알고리즘 (GAN, Neural ODE 등)까지 이해를 마치고 실무에 적용할 수 있도록 트레이닝 하는 것이 목적입니다. 
 
