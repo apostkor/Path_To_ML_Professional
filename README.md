@@ -7,7 +7,7 @@
 - 다만 이번에도 수학을 포기하면 안됩니다. :)
 - 말이 3주이지, 풀타임 (소위 9 to 6) 기준으로 학습하는 것을 전제로 합니다. 
 
-
+-
 ## 목차
 1. [인공지능을 위한 수학](https://github.com/apostkor/Path_To_ML_Professional/blob/master/README.md#1-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%98%ED%95%99)  
 2. [미적분 기초](https://github.com/apostkor/Path_To_ML_Professional/blob/master/README.md#2-%EB%AF%B8%EC%A0%81%EB%B6%84-%EA%B8%B0%EC%B4%88) 
