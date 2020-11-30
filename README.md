@@ -1,10 +1,9 @@
 # Path To ML Professional 
 # by. Sun-il Kim
-## 2019-01-02
+## 2020-11-30 Last Update
 
-수학을 (거의) 모르는 기초부터 시작하여, 지금 시점의 최신 알고리즘 (GAN, Neural ODE 등)까지 이해를 마치고 실무에 적용할 수 있도록 트레이닝 하는 것이 목적입니다. 
+지금 시점의 최신 알고리즘 (GAN, Neural ODE 등)까지 이해를 마치고 실무에 적용할 수 있도록 트레이닝 하는 것이 목적입니다. 
 
--
 ## 목차
 1. [인공지능을 위한 수학](https://github.com/apostkor/Path_To_ML_Professional/blob/master/README.md#1-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%98%ED%95%99)  
 2. [미적분 기초](https://github.com/apostkor/Path_To_ML_Professional/blob/master/README.md#2-%EB%AF%B8%EC%A0%81%EB%B6%84-%EA%B8%B0%EC%B4%88) 
